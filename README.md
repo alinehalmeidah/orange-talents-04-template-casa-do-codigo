@@ -19,7 +19,7 @@ Neste projeto não está liberado usar bibliotecas que geram código ou que faze
 
 *Map Struct
 
-*Entendemos que por mais que elas sejam úteis, não são necessárias para você treinar suas habilidades para desenvolver o projeto.
+* Entendemos que por mais que elas sejam úteis, não são necessárias para você treinar suas habilidades para desenvolver o projeto.
 
 * Limitação na criação de setters em classes de domínio
 Você só pode ter no máximo dois métodos no estilo setter nas suas classes anotadas com @Entity ou com qualquer outra anotação da JPA.
