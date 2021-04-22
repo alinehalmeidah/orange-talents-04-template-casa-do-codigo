@@ -14,8 +14,11 @@
 Neste projeto não está liberado usar bibliotecas que geram código ou que fazem conversão de objetos de entrada para objetos de domínios. Nesse conjunto, temos alguns exemplos:
 
 *Lombok
+
 *Model mapper
+
 *Map Struct
+
 *Entendemos que por mais que elas sejam úteis, não são necessárias para você treinar suas habilidades para desenvolver o projeto.
 
 * Limitação na criação de setters em classes de domínio
