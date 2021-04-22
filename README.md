@@ -1,4 +1,4 @@
-# Desafio Casa do código - Orange Talents #4
+:zap: # Desafio Casa do código - Orange Talents #4 :zap:
 
 ### ** 1 -Como aproveitar o desafio da casa do código **
 
